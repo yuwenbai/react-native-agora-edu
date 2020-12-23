@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe75a7ff-77de-45c7-9724-5474b44345c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syan/agora/AgoraConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syan/agora/AgoraConst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syan/agora/AgoraMediaView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syan/agora/AgoraMediaView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syan/agora/AograMediaManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syan/agora/AograMediaManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/AgoraMediaPlayer.native.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/AgoraMediaPlayer.native.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="android" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bZLa7dx43DMDdlPTfocLmhpDFP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe75a7ff-77de-45c7-9724-5474b44345c7" name="Default Changelist" comment="" />
+      <created>1585639569261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585639569261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="-988" key="#com.intellij.ide.util.MemberChooser" timestamp="1608529399847">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="538" y="-988" key="#com.intellij.ide.util.MemberChooser/60.25.1380.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1608529399847" />
+    <state width="2518" height="364" key="GridCell.Tab.0.bottom" timestamp="1607049788744">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2518" height="364" key="GridCell.Tab.0.bottom/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1607049788744" />
+    <state width="2518" height="364" key="GridCell.Tab.0.center" timestamp="1607049788743">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2518" height="364" key="GridCell.Tab.0.center/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1607049788743" />
+    <state width="2518" height="364" key="GridCell.Tab.0.left" timestamp="1607049788743">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2518" height="364" key="GridCell.Tab.0.left/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1607049788743" />
+    <state width="2518" height="364" key="GridCell.Tab.0.right" timestamp="1607049788744">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state width="2518" height="364" key="GridCell.Tab.0.right/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1607049788744" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1604061848500">
+      <screen x="-567" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/56.23.1384.877/-567.-1417.2560.1417@-567.-1417.2560.1417" timestamp="1604061848500" />
+    <state x="946" y="-922" width="694" height="488" key="find.popup" timestamp="1608623524945">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="946" y="-922" width="694" height="488" key="find.popup/60.25.1380.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1608531057275" />
+    <state x="946" y="-923" width="693" height="488" key="find.popup/62.23.1378.877/-567.-1417.2560.1417@-567.-1417.2560.1417" timestamp="1604061251414" />
+    <state x="946" y="-923" width="693" height="488" key="find.popup/65.23.1375.877/-567.-1417.2560.1417@-567.-1417.2560.1417" timestamp="1605170157377" />
+    <state x="946" y="-922" width="694" height="488" key="find.popup/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1608621409280" />
+    <state x="946" y="-922" width="694" height="488" key="find.popup/70.25.1370.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1608623524945" />
+    <state x="378" y="-375" width="670" height="675" key="run.anything.popup" timestamp="1607049857629">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="378" y="-375" width="670" height="675" key="run.anything.popup/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1607049857629" />
+    <state x="378" y="-1091" width="670" height="676" key="search.everywhere.popup" timestamp="1608619171950">
+      <screen x="-567" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="378" y="-1091" width="670" height="676" key="search.everywhere.popup/60.25.1380.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1608521704213" />
+    <state x="378" y="-1091" width="670" height="676" key="search.everywhere.popup/67.25.1373.875/-567.-1415.2560.1415@-567.-1415.2560.1415" timestamp="1608619171950" />
+  </component>
+</project>

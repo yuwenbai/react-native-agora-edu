@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.agora:agoraplayer:1.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2c6e33efa410ce9859b5bc836dec9d63/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2c6e33efa410ce9859b5bc836dec9d63/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2c6e33efa410ce9859b5bc836dec9d63/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2c6e33efa410ce9859b5bc836dec9d63/jars/libs/AgoraMediaPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora/agoraplayer/1.1.2/7ca9a8a846e37c71414a650c65c3ad7201ef8bdf/agoraplayer-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora/agoraplayer/1.1.2/7ca9a8a846e37c71414a650c65c3ad7201ef8bdf/agoraplayer-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

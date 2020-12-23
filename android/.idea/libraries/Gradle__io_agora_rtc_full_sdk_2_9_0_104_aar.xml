@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.agora.rtc:full-sdk:2.9.0.104@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627b0ef13589142e83d19d47370182a0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627b0ef13589142e83d19d47370182a0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627b0ef13589142e83d19d47370182a0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627b0ef13589142e83d19d47370182a0/jars/libs/agora-rtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/full-sdk/2.9.0.104/a3d37d04120b05beae9929bc89d0609fb674ccc6/full-sdk-2.9.0.104-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/full-sdk/2.9.0.104/a3d37d04120b05beae9929bc89d0609fb674ccc6/full-sdk-2.9.0.104-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
